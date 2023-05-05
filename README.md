@@ -44,3 +44,14 @@ Despesa de Capital (*CapEx*): Gasto inicial, você paga na frente. Você vai atr
 
 Despesas operacionais(*OpEx*): Gasto pelo que foi usado. O pagamento é feito conforme o uso, 30 dias após a utilização do serviço.
 
+## 🤔 Curiosidades Azure:
+
+- A Azure oferece quatro modelos de suporte para seus clientes, e são esses: Básico(Gratuito), Desenvolvedor(U$29), Standard (U$100), Professional Direct (U$1000). O plano “professional direct” permite acesso a um engenheiro da Microsoft 24x7.
+- Ao criar uma conta na Azure gratuita, o valor de crédito inicial é de U$200.
+- O Brasil só tem uma zona de disponibilidade.
+- Se você tem recursos distribuídos em diferentes regiões para uma mesma aplicação, isso pode causar lentidão e latência causando demora nos acessos.
+- O functions possibilita rodar funções de código sem alocação direta de servidor, sendo transparente.
+- Azure Insights tem o foco de monitoramento e alarmes e não para divisão de custos.
+- Tags são elementos de metadados que você aplica aos recursos do Azure. Elas são pares de chave-valor que ajudam você a identificar recursos com base em configurações relevantes para sua organização.
+- O Acesso Condicional é a ferramenta usada pelo Azure Active Directory para permitir (ou negar) o acesso a recursos com base em sinais de identidade. O acesso condicional é um método de MFA (autenticação multifator) mais refinado.
+
