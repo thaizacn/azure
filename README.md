@@ -44,6 +44,17 @@ Despesa de Capital (*CapEx*): Gasto inicial, você paga na frente. Você vai atr
 
 Despesas operacionais(*OpEx*): Gasto pelo que foi usado. O pagamento é feito conforme o uso, 30 dias após a utilização do serviço.
 
+## 👣 Serveless: (computação sem servidor)
+É o modelo de computação em nuvem onde o provedor de serviços (Azure) é responsáveç ´pr executar um pedeço de um código ou função, gerenciando todo o ambiente de execução. Nesse modelo pagamos somente pelo tempo de execução, a Azure escala automaticamente os serviços também. É ideal para cargas event-driven como processamento de eventos, APIs, IoT, etc..
+
+## 🤓 Governança:
+
+- **Microsoft Purview**: Proporciona uma visão abrangente e unificada dos dados de toda organização. Ajuda a mapear, classificar, rotular e gerenciar os ativos de dados, além de ajudar a cumprir regulamentos e padrões de conformidade (GDPR, HIPPA..)
+- **Azure Policy**: Fornece governança e controle sobre os recursos. Ajuda a criar, atribuir e gerenciar politicas além de identificar, avaliar e mitigar riscos.
+- **Bloqueio de Recursos**: Impede a exclusão ou modificação acidental de recursos críticos. Podem ser usados para atender políticas.
+- **Assistente Azure**: Ferramenta de conversação integrada ao Portal Azure para ajudar o usuário a interagir com os serviços e recursos. Ela faz recomendações e orientações..
+- **Integridade do Serviço do Azure**: Fornece informações sobre saúde e o status dos serviços. Realiza o monitoramento, notificação de acidentes, histórico de integridade, suporte para decisões etc.
+
 ## 🤔 Curiosidades Azure:
 
 - A Azure oferece quatro modelos de suporte para seus clientes, e são esses: Básico(Gratuito), Desenvolvedor(U$29), Standard (U$100), Professional Direct (U$1000). O plano “professional direct” permite acesso a um engenheiro da Microsoft 24x7.
